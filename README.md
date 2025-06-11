@@ -16,7 +16,11 @@ Key steps include:
 
 Original image (16 million colors) ➡ Compressed image using only 16 colors.
 
-*(Add sample images if possible.)*
+**Original Image:**  
+![Original](images/without.png)
+
+**Compressed Image (K = 16):**  
+![Compressed](images/with.png)
 
 ## 📚 Based on
 
